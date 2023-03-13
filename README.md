@@ -1,2 +1,2 @@
 # Doodleblue-intern
-Work that complete 
+Work that completed
