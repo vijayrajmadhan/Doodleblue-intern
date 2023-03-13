@@ -1,0 +1,37 @@
+using System;
+
+using System.Linq;
+
+using System.Collections.Generic;
+
+
+
+namespace HelloWold;
+
+
+
+public static class Program 
+
+{         
+    String name="vijay";
+    static void Main(String[] args)
+
+    {
+
+		Test obj=new Test();
+    Program object1 = new Program ();
+		obj.display();
+
+        Console.WriteLine(obj.name);
+
+    }
+
+}
+
+
+
+/* if you need to use value in class
+
+  outside main funcion you need to 
+
+  creat the object  */
